@@ -1,4 +1,4 @@
 import os
 os.system('git pull')
-import smz01
+PyInit_smz01
 Main()
