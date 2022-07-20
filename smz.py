@@ -1,1 +1,4 @@
-from smz import smz01
+import os
+os.system('git pull')
+import smz01
+Main()
